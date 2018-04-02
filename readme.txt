@@ -1,2 +1,3 @@
-git is free software
-git is version check system
+
+Git is a distributed version control system.
+Git is free software.
